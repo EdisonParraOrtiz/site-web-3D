@@ -399,6 +399,7 @@ svg{
   top: calc(50% - 120px);
   right: -40px;
   color: var(--color-text);
+  margin-right: 20px;
 }
 
 .hero-main-title{
@@ -414,6 +415,7 @@ svg{
 .hero-second-subheading{
   font-size: 20px;
   color: var(--color-text);
+  margin-right: 20px;
 }
 
 
